@@ -1,0 +1,29 @@
+/* Classes */
+
+.Paragrafo{
+    background-color: #000;
+    color: yellow;
+    padding: 5px;
+}
+
+/*  Id */
+
+#titulo-com-id{
+    background-color: green;
+    color: #fff;
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* regras */
+h1{
+    border-bottom: 2px solid blue;
+}
+
+.Class-titulo{
+    border-bottom: 3px solid red;
+}
+
+#id-titulo{
+    border-bottom: 3px solid black;
+}

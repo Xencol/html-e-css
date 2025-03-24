@@ -1,0 +1,19 @@
+/* teste de css external */
+
+body{
+    padding-bottom: 500px;
+}
+
+h3{
+    color: greenyellow;
+}
+
+ul{
+    border: 1px solid blue;
+    padding: 20px;
+}
+
+li{
+    color: darkblue;
+}
+/* Regra de segurança, cuidado com os conteudos dos coméntarios pois aparece no DevTolls */

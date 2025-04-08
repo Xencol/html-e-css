@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gothic&family=Noto+Sans+Gunjala+Gondi:wght@400..700&family=Noto+Sans+JP:wght@100..900&family=Rubik+Mono+One&family=Underdog&family=Wallpoet&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gothic&family=Noto+Sans+Gunjala+Gondi:wght@400..700&family=Noto+Sans+JP:wght@100..900&family=Rubik+Mono+One&family=Underdog&family=Vazirmatn:wght@100..900&family=Wallpoet&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   
+    background-color: rgb(35, 168, 20); 
+    
+}
+
+img{
+
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 20px;
+    
+}
+
+h1{
+    font-family: Rubik Mono One,  Helvetica;
+    
+    text-align: center;
+   
+    color: rgb(0, 0, 0);
+
+}
+
+
+h2{
+    font-family: Rubik Mono One,  Helvetica;
+    
+    
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+   
+    
+}
+
+
+
+.texto1{
+    
+    font-size: larger;
+    font-family: Vazirmatn,  Helvetica;
+    text-align: center;
+    margin-left: 0%;
+   
+    
+}
+
+
+
+footer{
+
+    background-color: rgb(9, 81, 12);
+    border-radius: 20px;
+    padding: 100px;
+}
+
+#Overworld{
+    font-style: italic;
+
+}

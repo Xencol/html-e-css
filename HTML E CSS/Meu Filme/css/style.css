@@ -1,0 +1,230 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gothic&family=Noto+Sans+Gunjala+Gondi:wght@400..700&family=Noto+Sans+JP:wght@100..900&family=Rubik+Mono+One&family=Underdog&family=Wallpoet&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gothic&family=Noto+Sans+Gunjala+Gondi:wght@400..700&family=Noto+Sans+JP:wght@100..900&family=Rubik+Mono+One&family=Underdog&family=Vazirmatn:wght@100..900&family=Wallpoet&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+   
+    background-color: rgb(2, 19, 20); 
+    
+    
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    
+}
+
+img{
+
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+    
+    
+}
+
+.img1{
+
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 20px;
+    
+}
+
+
+
+h2{
+    font-family: Rubik Mono One,  Helvetica;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+   
+    
+}
+
+h3{
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    color: rgb(3, 32, 8);
+
+}
+
+
+
+.texto1{
+    
+    display: block;
+    background-color: rgba(46, 26, 8, 0.7);
+    box-shadow: 0 0 30px rgb(6, 151, 6); 
+   background-position: center;
+    border-radius: 20px; 
+    color: white;
+ 
+    
+    padding: 20px;
+    border-radius: 20px;
+    font-size: larger;
+    font-family: Vazirmatn,  Helvetica;
+    text-align: center;
+    margin-left: 0%;
+    width: 500px;
+    margin-left: 37%;
+   
+    
+}
+
+
+
+
+
+#Overworld{
+    font-style: italic;
+
+}
+
+.container {
+
+    display: flex; 
+    justify-content: space-between;
+    background-color: rgba(46, 26, 8, 0.7);
+    background-image: url(/css/img/bloco.png);
+    padding: 30px;
+    font-family: Rubik Mono One, Helveticaf;
+    color: white;
+   
+
+  }
+
+.jason{
+
+    width: 100%;
+    height: auto; 
+    border-radius: 50%;
+
+  }
+
+
+
+
+.jack{
+
+    width: 100%; 
+    height: auto; 
+    border-radius: 50%;
+
+}
+
+.sebastian{
+
+    width: 90%; 
+    height: auto;
+    border-radius: 50%; 
+
+}
+
+.emma{
+
+    width: 100%; 
+    height: auto;
+    border-radius: 50%; 
+  
+
+}
+
+.dani{
+
+    width: 87%;
+    height: auto;
+    border-radius: 50%; 
+
+}
+
+.Paragrafoinfo{
+
+background-color: rgba(46, 26, 8, 0.7);
+box-shadow: 0 0 30px rgb(6, 151, 6);
+padding: 20px;
+font-size: larger;
+font-family: Vazirmatn,  Helvetica;
+color: white;
+
+}
+
+
+
+figure{
+    
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+figcaption {
+    
+    font-style: italic;
+    color: #ffffff;
+    margin-top: 10px;
+
+}
+
+footer{
+
+    background-color: rgba(46, 26, 8, 0.7);
+    box-shadow: 0 0 30px rgb(6, 151, 6);
+    border-radius: 20px;
+    padding: 100px;
+    background-image: url(/css/img/chão.webp);
+    
+       
+}
+
+video{
+
+    display: block;
+    width: 60%;
+    box-shadow: 0 0 30px rgb(6, 151, 6);
+    margin: 0 auto;
+    border-radius: 20px;
+
+}
+
+.remove-underline{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.links{
+
+    margin-right: 30px; 
+    text-decoration: none;
+}
+
+.divf1{
+
+    display: block; 
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+
